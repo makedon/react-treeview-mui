@@ -24,19 +24,19 @@ var _TextField = require('material-ui/TextField');
 
 var _TextField2 = _interopRequireDefault(_TextField);
 
-var _expandMore = require('material-ui/svg-icons/navigation/expand-more');
+var _expandMore = require('material-ui-icons/ExpandMore');
 
 var _expandMore2 = _interopRequireDefault(_expandMore);
 
-var _expandLess = require('material-ui/svg-icons/navigation/expand-less');
+var _expandLess = require('material-ui-icons/ExpandLess');
 
 var _expandLess2 = _interopRequireDefault(_expandLess);
 
-var _folder = require('material-ui/svg-icons/file/folder');
+var _folder = require('material-ui-icons/Folder');
 
 var _folder2 = _interopRequireDefault(_folder);
 
-var _insertDriveFile = require('material-ui/svg-icons/editor/insert-drive-file');
+var _insertDriveFile = require('material-ui-icons/InsertDriveFile');
 
 var _insertDriveFile2 = _interopRequireDefault(_insertDriveFile);
 
